@@ -1,0 +1,52 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+*.sln.ide
+*.sln.cache
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+arm/
+arm64/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Visual Studio Extensions
+*.vsix
+
+# SQL Server Data Tools
+*.sqlproj.user
+
+# Other
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.jfm2
+*.jfm3
+*.pdb
+*.mdb
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+Thumbs.db
